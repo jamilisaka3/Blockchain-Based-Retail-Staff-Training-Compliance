@@ -9,3 +9,7 @@ Q
 !contracts/store-verification.clar,5/c/5c0190a4f14daac81105a386781f17ae89fbf215
 P
  tests/store-verification.test.ts,b/0/b09a31100810415b3bee17b19943c5aface87dd1
+R
+"tests/training-requirement.test.ts,0/e/0e911bd2385cc6ec409e357eb432c98b6ee75bbd
+S
+#contracts/training-requirement.clar,f/1/f12be5ac788b1264031b291a8d6730b5bf7a553d
